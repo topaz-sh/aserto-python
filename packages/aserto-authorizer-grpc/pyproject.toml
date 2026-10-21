@@ -28,7 +28,7 @@ packages = [
 
 [tool.poetry.dependencies]
 betterproto = "v2.0.0b4"
-certifi = "^2021.5.30"
+certifi = ">=2021.5.30,<2027.0.0"
 python = "^3.7"
 typing-extensions = "^3.10.0"
 
